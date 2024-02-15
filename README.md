@@ -53,4 +53,9 @@ pip install -r requirements.txt
 
   python manage.py test
 
+ 2 test not passing:
+
+ test_snack_update_view_redirect
+ 
+ test_snack_detail_view
 
