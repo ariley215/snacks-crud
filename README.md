@@ -28,6 +28,7 @@ Author: Andrea Riley(Thiel)
 - Add navigation links in appropriate locations to access all pages
 - Make all necessary changes to project level files for project to run
 
+*completed 02-14-2024 EOD EST*
 
 ## Links and Resources
 
